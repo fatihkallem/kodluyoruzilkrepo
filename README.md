@@ -1,7 +1,7 @@
+
 # **Kodluyoruz İlk Repo**
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturdığımuz ilk repo. 
-İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturdığımuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## **Installation**
 
@@ -30,6 +30,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 ### **Markdown ile oluşturduğum dosyanın resmi:**
 
-![Proje Resmi](https://github.com/fatihkallem/kodluyoruzilkrepo/blob/136365089f0fea74cc88211d3e46ab5e57640d86/markdown.png)
+![Proje Resmi](https://github.com/fatihkallem/kodluyoruzilkrepo/blob/195374a597b986e857576d57d847ac8036b7eab4/secreen.png)
 
-## ***[Patika Profilim](https://app.patika.dev/fatihkallem)***
+## ***[Patika Profilime Ulaşmak için Tıklayınız](https://app.patika.dev/fatihkallem)***
+
+
