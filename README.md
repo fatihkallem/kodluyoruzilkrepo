@@ -30,7 +30,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 ### **Markdown ile oluşturduğum dosyanın resmi:**
 
-![Proje Resmi](https://github.com/fatihkallem/kodluyoruzilkrepo/blob/195374a597b986e857576d57d847ac8036b7eab4/secreen.png)
+![Proje Resmi](https://github.com/fatihkallem/kodluyoruzilkrepo/blob/9522c3cc41db984bf0a41989a95a7b3603d63aae/screen.png)
 
 ## ***[Patika Profilime Ulaşmak için Tıklayınız](https://app.patika.dev/fatihkallem)***
 
