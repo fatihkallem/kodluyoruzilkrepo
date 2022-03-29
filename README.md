@@ -32,4 +32,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 ![Proje Resmi](https://github.com/fatihkallem/kodluyoruzilkrepo/blob/136365089f0fea74cc88211d3e46ab5e57640d86/markdown.png)
 
-
+## ***[Patika Profilim](https://app.patika.dev/fatihkallem)***
